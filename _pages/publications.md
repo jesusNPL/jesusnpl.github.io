@@ -28,6 +28,8 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ## Published
 
 ### 2021 - 
+* Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. (Accepted). Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments. _Functional Ecology_. 
+
 * __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). _Scientific Reports, 11:16448_.
 
 * Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_. 
@@ -109,7 +111,6 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 * __Pinto-Ledezma, J.N__. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. _Kempffiana, 1(2): 45-56_.
 
 ## Under review - revision
-* Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. (Under revision). Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments. 
 
 * Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
