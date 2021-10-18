@@ -17,11 +17,13 @@ share: no
 
 _The only constant in life is change_. __--Heraclitus, c. 505 BCE__
 
+_We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard..._ __--John F. Kennedy__
+
 ![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/curriculum2.jpg?raw=true)
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: August 2021
+Updated: October 2021
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
@@ -40,6 +42,7 @@ Updated: August 2021
   
 ## Fellowships and Awards
 * 2020-2021: __AAAS/Science membership award__, the American Association for the Advancement of Science Program for Excellence in Science. 
+* 2021: __Sigma Xi Membership__, Sigma Xi the Scientific Research Honor Society.
 * 2017-2020: __Grand Challenges in Biology Fellowship__, College of Biological Sciences, University of Minnesota.
 * 2015-2017: __CAPES PhD Fellowship__, Coordination for the Improvement of Higher Education Personnel (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior; CAPES), Brazil.
 * 2014-2015: __OEA-CGUB Doctoral Scholarship__. Organization of American States (OAS) and the Coimbra Group of Brazilian Universities (GCUB).
@@ -70,6 +73,7 @@ Updated: August 2021
 * __Aves Argentinas__: El Hornero (revista de ornitología Neotropical) 
 * __New Phytologist Foundation__: New Phytologist 
 * __Zoological Society of London__: Remote Sensing in Ecology and Conservation
+* __Association of Tropical Biology and Conservation__: Biotropica
 
 ### Journals in for-profit publishers  
 Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation.

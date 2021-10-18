@@ -30,6 +30,8 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ### 2021 - 
 * Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. (Accepted). Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments. _Functional Ecology_. 
 
+* Chaplin-Kramer, R., K.A. Brauman, J. Cavender-Bares, S. D  az, G.T. Duarte, B.J. Enquist, L.A. Garibaldi, J. Geldmann, B.S. Halpern, T.W. Hertel, C.K. Khoury, J.M. Krieger, S. Lavorel, T. Mueller, R.A. Neugarten, __J.N. Pinto-Ledezma__, S. Polasky, A. Purvis, V. Reyes-Garc  a, P.R. Roehrdanz, L.J. Shannon, M.R. Shaw, B.N. Strassburg, J.M. Tylianakis, P.H. Verburg, P. Visconti and N. Zafra-Calvo. (Accepted). Conservation needs to integrate knowledge across scales. _Nature Ecology and Evolution_.
+
 * __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). _Scientific Reports, 11:16448_.
 
 * Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, __J.N. Pinto-Ledezma__, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. (2021). [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). _Research Ideas and Outcomes, 7: e63850_. 
