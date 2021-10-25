@@ -114,6 +114,8 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Under review - revision
 
+* Rueda-Cediel, P., R. Brain, N. Galic, __J.N. Pinto-Ledezma__, A. Rico and V. Forbes. (First revision). Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species. Integrated Environmental Assessment and Management.
+
 * Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
 
 * Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1)
