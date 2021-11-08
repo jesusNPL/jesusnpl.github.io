@@ -59,7 +59,8 @@ Updated: October 2021
 
 * I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
 
-### Society journals and/or associated to scientific societies
+### Society journals and/or associated to scientific societies 
+* __National Academy of Sciences of the United States of America__: Proceedings of the National Academy of Sciences
 * __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
 * __American Society of Naturalists__: The American Naturalist
 * __Society of Systematic Biologists__: Systematic Biology
@@ -83,6 +84,7 @@ Kempffiana, Oecología Australis, PLOS One, Journal of Vegetation Science.
   
 ## Professional affiliations
 * 2020-Present: American Association for the Advancement of Science
+* 2021-Present: Sigma Xi, The Scientific Research Honor Society
 * 2014-Present: Ecological Society of America
 * 2013-Present: National Academy of Sciences of Bolivia, Santa Cruz Chapter
 * 2012-Present: Ornithological Society of Bolivia
