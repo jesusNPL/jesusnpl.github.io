@@ -27,8 +27,8 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Published
 
-### 2021 - 
-* Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. 2021. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). _Functional Ecology_. 
+### 2021 - 2022
+* Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. 2022. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). _Functional Ecology_. 
 
 * __Pinto-Ledezma, J.N.__ & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). _Scientific Reports, 11: 16448_.
 
