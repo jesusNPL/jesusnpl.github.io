@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.30)  21 FEB 2022 16:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.30)  28 FEB 2022 06:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,7 +301,7 @@ AED: lastpage setting LastPage
 Here is how much of TeX's memory you used:
  3794 strings out of 480293
  62926 string characters out of 5895470
- 361665 words of memory out of 5000000
+ 361669 words of memory out of 5000000
  21649 multiletter control sequences out of 15000+600000
  410431 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -318,7 +318,7 @@ l/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/
 jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eu
 rm10.pfb>
-Output written on CV_JPL.pdf (11 pages, 172685 bytes).
+Output written on CV_JPL.pdf (11 pages, 172696 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
