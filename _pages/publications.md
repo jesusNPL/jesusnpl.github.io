@@ -32,7 +32,7 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 * Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
 
-* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1).
+* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How to measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1).
 
 ## Published
 
