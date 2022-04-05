@@ -26,11 +26,13 @@ _Understanding patterns in terms of the processes that produce them is the essen
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Preprints
-* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.17.157891v1.full)
+* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 
-* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
+* Velasco, J.A. & __J.N. Pinto-Ledezma__. [Mapping diversification metrics in macroecological studies: prospects and challenges](https://doi.org/10.1101/261867).
 
-* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1)
+* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
+
+* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1).
 
 ## Published
 
@@ -63,8 +65,6 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ### 2017 - 2018
 * __Pinto-Ledezma, J.N.__, D. Larkin & J. Cavender-Bares. 2018. [Patterns of beta diversity of vascular plants and their correspondence with biome boundaries across North America](https://doi.org/10.3389/fevo.2018.00194). _Frontiers in Ecology and Evolution, 6: 194_.
-
-* Velasco, J.A. & __J.N. Pinto-Ledezma__. 2018. [Mapping diversification metrics in macroecological studies: prospects and challenges](https://doi.org/10.1101/261867). bioArxiv, 261867.
 
 * __Pinto-Ledezma, J.N.__, L. Simon, J.A.F. Diniz-Filho & F. Villalobos. 2017. [The geographic diversification of Furnariides: the role of forest versus open habitats in driving species richness gradients](https://doi.org/10.1111/jbi.12939). _Journal of Biogeography, 44(8): 1683-1693_.
 
