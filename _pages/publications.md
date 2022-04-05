@@ -25,6 +25,13 @@ _Understanding patterns in terms of the processes that produce them is the essen
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
+## Preprints
+* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.17.157891v1.full)
+
+* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
+
+* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1)
+
 ## Published
 
 ### 2021 - 2022
@@ -113,16 +120,6 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 * Villarroel, D., __J.N. Pinto-Ledezma__, T. Ruiz de Centurión & A. Parada. 2009. [Relaciones entre la cobertura arbórea y herbácea en tres fisonomías del Cerrado sensu lato (Cerro Mutún, Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1605-25282009000200002). Ecología en Bolivia, 44(2): 83-98.
 
 * __Pinto-Ledezma, J.N__. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. _Kempffiana, 1(2): 45-56_.
-
-## Under review - revision
-
-* Rueda-Cediel, P., R. Brain, N. Galic, __J.N. Pinto-Ledezma__, A. Rico and V. Forbes. (First revision). Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species. Integrated Environmental Assessment and Management.
-
-* Simon, L., __J.N. Pinto-Ledezma__, R.R. Dunn & T.F.L.V.B. Rangel. (Under review). Urban warming inverse contribution on risk of dengue transmission in the southeastern North America. [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1)
-
-* Souza, K., __J.N. Pinto-Ledezma__, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. (Under review). How tho measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach. [Preprint](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1)
-
-* Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. (Under review). Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae). [Preprint](https://www.biorxiv.org/content/10.1101/2020.06.17.157891v1.full)
 
 ## Book and chapters non peer reviewed
 * Mostacedo, B., M. Toledo, D. Villarroel, __J.N. Pinto-Ledezma__, G. Carreño-Rocabado, B. Flores & Y. Uslar. 2014. Memorias del IV Congreso Boliviano de Ecología. 4-6 de junio 2014. Universidad Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia.
