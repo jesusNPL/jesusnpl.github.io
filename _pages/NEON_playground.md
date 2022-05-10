@@ -27,6 +27,11 @@ The broader impacts of this **NSF project** include several components:
 
 With this project we also aim to actively engage in training undergraduate and graduate students in bioinformatics, building quantitative thinking and skills essential to macroecological research and assessment of biodiversity in the Anthropocene. Click in the links below to get access to each tutorial.
 
+## NextGen species distribution models
+
+__To get access to the tutorial please click the next link:__ 
+<p style="text-decoration:underline;"><a href="/NEON_Intro_NextGenSDM.html">Intro to NextGen species distribution models</a></p>
+
 ## Measuring phylogenetic diversity within communities
 
 The main goal of this tutorial is to present a basic understanding about measuring phylogenetic diversity within communities or best known as the analysis of community phylogenetics. The community phylogenetics integrates ecological and evolutionary concepts and explores the mechanisms (e.g., biotic interactions or environmental filters) governing the assembly of ecological communities. 

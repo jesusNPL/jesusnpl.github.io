@@ -25,7 +25,9 @@ _Understanding patterns in terms of the processes that produce them is the essen
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
-## Preprints
+## Preprints 
+* __Pinto-Ledezma, J.N.__, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://doi.org/10.1101/2022.05.09.491174)
+
 * Velasco, J.A., G. Campillo-García, __J.N. Pinto-Ledezma__ & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 
 * Velasco, J.A. & __J.N. Pinto-Ledezma__. [Mapping diversification metrics in macroecological studies: prospects and challenges](https://doi.org/10.1101/261867).
