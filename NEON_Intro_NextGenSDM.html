@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Jesús N. Pinto-Ledezma" />
+<meta name="author" content="Jesús Pinto-Ledezma" />
 
 
 <title>Intro to NextGen ENM/SDM</title>
@@ -165,7 +165,7 @@ pre code {
 
 
 <h1 class="title toc-ignore">Intro to NextGen ENM/SDM</h1>
-<h4 class="author">Jesús N. Pinto-Ledezma</h4>
+<h4 class="author">Jesús Pinto-Ledezma</h4>
 
 </div>
 
@@ -251,7 +251,7 @@ library(sdm)</code></pre>
 
 # Save the raw data
 save(gbif_data, file = &quot;Data/occ/oaks_raw_occ.RDATA&quot;)</code></pre>
-<p>Inspect the downloaded data. Note that we have downloaded data for four species but for simplicity let’s pick one species for this tutorial. I will select <em>Quercus alba</em> but you can select any other species.</p>
+<p>Inspect the downloaded data. Note that we have downloaded data for four species but for simplicity let’s pick one species for this tutorial. I will select <em>Quercus minima</em> but you can select any other species.</p>
 <p>The returned object (gbif_data) is a list of 4 elements (i.e., the number of our species vector), thus, to select the focal species just use <strong>[[position of the species in the vector]]</strong> to get access to the species. For example, I selected <em>Quercus minima</em>, so, to get access to this species I just need to type <strong>gbif_data[[2]]</strong>, let’s see:</p>
 <pre class="r"><code>#gbif_data
 # if, for any species, &quot;Records found&quot; is larger than &quot;Records returned&quot;, you need to increase the &#39;limit&#39; argument above -- see help(occ_data) for options and limitations
@@ -280,7 +280,7 @@ head(occ_quemin)</code></pre>
 <pre class="r"><code>quemin_spt &lt;- SpatialPointsDataFrame(coords = occ_quemin[, 1:2], 
                                      data = data.frame(occ_quemin), 
                                      proj4string = CRS(&quot;+proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0&quot;))</code></pre>
-<p>Let’s plot the distribution of <em>Quercus alba</em> occurrences.</p>
+<p>Let’s plot the distribution of <em>Quercus minima</em> occurrences.</p>
 <pre class="r"><code>plot(quemin_spt, col = &quot;darkgreen&quot;, pch = 16)
 plot(countriesCoarse, add = TRUE, lwd = 2)</code></pre>
 <p>Seems the data is correct but there are two points that are extreme at the East and West, respectively. Let’s first clean those two extreme points.</p>
@@ -302,7 +302,7 @@ plot(countriesCoarse, add = TRUE, lwd = 2)</code></pre>
     
 thinning &lt;- as.data.frame(thinning)
 thinning$Species &lt;- &quot;Quercus_minima&quot;</code></pre>
-<p>Explore the results of the thinning process. We can see that the number of occurrences of <em>Quercus alba</em> decreased from 1999 occurrences to 1086 occurrences. We will use the thinned data for further analyses.</p>
+<p>Explore the results of the thinning process. We can see that the number of occurrences of <em>Quercus minima</em> decreased from 1999 occurrences to 1086 occurrences. We will use the thinned data for further analyses.</p>
 <pre class="r"><code>dim(thinning)
 head(thinning)</code></pre>
 <p>Transform the thinned occurrences to a spatial object</p>
@@ -322,9 +322,10 @@ rm(gbif_data, occ_quemin, quemin_spt, thinning)</code></pre>
 </div>
 <div id="prepare-environmental-data" class="section level1">
 <h1>Prepare environmental data</h1>
-<p>Now we will prepare the environmental data necessary to construct our models. <a href="https://drive.google.com/drive/folders/1umc_HBDDNlEpgH6XMuMdA1wQZWZV8K1b?usp=sharing"><strong>HERE</strong></a> you can download cleaned data for precipitation and temperature. Note that you can download temperature data from <a href="https://lpdaac.usgs.gov/products/mod11c3v006/">HERE</a> and precipitation data from <a href="https://www.chc.ucsb.edu/data/chirps">HERE</a></p>
+<p>Now we will prepare the environmental data necessary to construct our models. You can download the cleaned data for precipitation and temperature <a href="https://drive.google.com/drive/folders/1umc_HBDDNlEpgH6XMuMdA1wQZWZV8K1b?usp=sharing"><strong>HERE</strong></a> or <a href="https://drive.google.com/drive/folders/1Que6gwYCqoJxJwZ_gxwj831FUqTfiUEB?usp=sharing"><strong>HERE</strong></a>. Note that you can download raw temperature data from <a href="https://lpdaac.usgs.gov/products/mod11c3v006/">HERE</a> and raw precipitation data from <a href="https://www.chc.ucsb.edu/data/chirps">HERE</a></p>
+<p>Using data from precipitation and temperature we can derive 19 bioclimatic variables similar to those of the <a href="https://www.worldclim.org/data/bioclim.html"><strong>Worldclim</strong></a>. For simplicity, we call these remote sensing derived variables as <strong>Earth Observation Bioclimatic Variables</strong> or simply <strong>EO-Bioclim</strong> (Pinto-Ledezma &amp; Cavender-Bares 2021).</p>
 <p>Preparing environmental data is time consuming, for example, the time to process 19 EO-Bioclimatic variables for the United States will take around 45 minutes. So, we will use data that is already processed.</p>
-<p>If you want to take the risk, you can use the next lines of code to process the EO-Bioclimatic variables</p>
+<p>If you want to take the risk, you can use the next lines of code to process the EO-Bioclim variables</p>
 <pre class="r"><code>source(&quot;Code/rfunctions/makeBioVars.R&quot;)
 
 #elev &lt;- raster(&quot;Data/raster/Topography/US_elevation.tif&quot;)
@@ -450,7 +451,7 @@ presence$Occurrence &lt;- 1 # presence data
 absence$Occurrence &lt;- 0 # pseudoabsence data
 
 quemin &lt;- rbind(presence, absence) # combine both information
-quemin$Species &lt;- &quot;Quercus_alba&quot;</code></pre>
+quemin$Species &lt;- &quot;Quercus_minima&quot;</code></pre>
 <p>Finally transform the presence-pseudoabsence data to a spatial object and visualize it!</p>
 <pre class="r"><code>coordinates(quemin) &lt;- ~ Longitude + Latitude
 crs(quemin) &lt;- crs(EObios_spp)
@@ -532,7 +533,7 @@ plot(envi_quemin_sel)</code></pre>
 </div>
 <div id="building-environmental-niche-models" class="section level1">
 <h1>Building Environmental Niche Models</h1>
-<p>To model the environmental niches for <em>Quercus alba</em> we will use the R package {<strong>sdm</strong>}. This package is very useful and first we need to create a data object which will save us a lot of time in the future.</p>
+<p>To model the environmental niches for <em>Quercus minima</em> we will use the R package {<strong>sdm</strong>}. This package is very useful and first we need to create a data object which will save us a lot of time in the future.</p>
 <pre class="r"><code>queminDATA &lt;- sdmData(formula = Occurrence ~ EO_bio2 + EO_bio4 + EO_bio9 + EO_bio10 + EO_bio12 + EO_bio17 + LAI_e_bios_Seasonality + elevation_1KMmd_SRTM, 
                       train = quemin, # presence-pseudoabsence data
                       predictors = envi_quemin_sel, # selected covariables
@@ -701,6 +702,7 @@ writeRaster(quemin_SDM_ensemble, filename = &quot;Output/SDMs/quemin_SDM_Ensembl
 <p>Breiman, L. (2001). Random Forests. Machine Learning 45: 5-32. <a href="doi:10.1023/a:1010933404324" class="uri">doi:10.1023/a:1010933404324</a></p>
 <p>Dormann, C. F., Elith, J., Bacher, S., Buchmann, C., Carl, G., Carré, G., … Lautenbach, S. (2012). Collinearity: a review of methods to deal with it and a simulation study evaluating their performance. Ecography, 36(1), 27–46. <a href="doi:10.1111/j.1600-0587.2012.07348.x" class="uri">doi:10.1111/j.1600-0587.2012.07348.x</a></p>
 <p>Karatzoglou, A., D. Meyer &amp; K. Hornik, 2006. Support Vector Machines in R. Journal of statistical software 15(9).</p>
+<p>Pinto-Ledezma, J.N. &amp; J. Cavender-Bares. 2021. Predicting species distributions and community composition using satellite remote sensing predictors. Scientific Reports, 11: 16448.</p>
 <p>Vapnik, V., 1998. Statistical Learning Theory. Wiley, New York.</p>
 </div>
 
