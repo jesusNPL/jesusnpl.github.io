@@ -270,7 +270,7 @@ head(occ_quemin)</code></pre>
 <pre class="r"><code>dim(occ_quemin)</code></pre>
 <p>Now let’s clean a little bit the data. First, removing all NA in the occurrence data.</p>
 <pre class="r"><code>occ_quemin &lt;- subset(occ_quemin, !is.na(decimalLongitude) &amp; !is.na(decimalLatitude))</code></pre>
-<p>Let’s do some further data cleaning with functions of the {<strong>scrubr</strong>} package (but note this cleaning is not exhaustive!). This will clean some unprobable coordinates in the data.</p>
+<p>Let’s do some further data cleaning with functions of the {<strong>scrubr</strong>} package (but note this cleaning is not exhaustive!). This will clean some improbable coordinates in the data.</p>
 <pre class="r"><code>occ_quemin &lt;- coord_incomplete(coord_imprecise(coord_impossible(coord_unlikely(occ_quemin))))</code></pre>
 <pre class="r"><code>dim(occ_quemin)
 ## 450    7
@@ -302,7 +302,7 @@ plot(countriesCoarse, add = TRUE, lwd = 2)</code></pre>
     
 thinning &lt;- as.data.frame(thinning)
 thinning$Species &lt;- &quot;Quercus_minima&quot;</code></pre>
-<p>Explore the results of the thinning process. We can see that the number of occurrences of <em>Quercus minima</em> decreased from 1999 occurrences to 1086 occurrences. We will use the thinned data for further analyses.</p>
+<p>Explore the results of the thinning process. We can see that the number of occurrences of <em>Quercus minima</em> decreased from 448 occurrences to 242 occurrences. We will use the thinned data for further analyses.</p>
 <pre class="r"><code>dim(thinning)
 head(thinning)</code></pre>
 <p>Transform the thinned occurrences to a spatial object</p>
@@ -577,6 +577,11 @@ queminSDM &lt;- sdm(Occurrence~., data = queminDATA, # formula and data
 write.sdm(queminSDM, file = &quot;Output/queminSDM&quot;, overwrite = TRUE) # save the model for latter</code></pre>
 <p>Now let’s see how well each algorithm fitted the data.</p>
 <pre class="r"><code>queminSDM</code></pre>
+<pre class="r"><code>queminSDM &lt;- read.sdm(&quot;Output/queminSDM.sdm&quot;)
+
+getModelInfo(queminSDM)
+
+getEvaluation(queminSDM)</code></pre>
 <p>We can see that all algorithms worked relatively well. The evaluation table shows four metrics of model evaluation, i.e., AUC, COR, TSS and Deviance, each metric has its own properties but I personally like the true-skill statistics (TSS) metric, because it evaluates the matches and mismatches between observations and predictions. So by looking at the column of TSS we can see that the algorithm that best fitted the occurrence data is <strong>svm</strong> followed by <strong>random forest</strong>, and <strong>gam</strong> and <strong>glm</strong>, respectively. Interestingly, these models also have the highest area under the operating curve (AUC) metric values.</p>
 <p>Another way to evaluate the model performance is to plot the AUCs.</p>
 <pre class="r"><code>roc(queminSDM, smooth = TRUE)</code></pre>
