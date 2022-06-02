@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.30)  28 FEB 2022 06:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.30)  2 JUN 2022 12:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -281,31 +281,29 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
 [1
 
 {/Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+eur on input line 102
+LaTeX Font Info:    Trying to load font information for U+eur on input line 109
 .
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 )
-Overfull \hbox (5.74945pt too wide) in paragraph at lines 114--115
+Overfull \hbox (5.74945pt too wide) in paragraph at lines 121--122
 []\OT1/cmr/bx/n/10.95 Master's Pro-gram in Wildlife Man-age-ment, \OT1/cmr/m/n/
 10.95 US Wildlife Ser-vice, Uni-ver-si-dad Na-cional de C^^Sordoba,
  []
 
 [2
 
-] [3] [4] [5] [6] [7
-
-] [8] [9] [10] [11] 
+] [3] [4] [5] [6] [7] [8] [9] [10] [11] 
 AED: lastpage setting LastPage
 (./CV_JPL.aux) ) 
 Here is how much of TeX's memory you used:
  3794 strings out of 480293
  62926 string characters out of 5895470
- 361669 words of memory out of 5000000
+ 359669 words of memory out of 5000000
  21649 multiletter control sequences out of 15000+600000
  410431 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,76p,1697b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,76p,1697b,300s stack positions out of 5000i,500n,10000p,200000b,80000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jkn
 appen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/font
@@ -318,7 +316,7 @@ l/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/
 jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eu
 rm10.pfb>
-Output written on CV_JPL.pdf (11 pages, 172696 bytes).
+Output written on CV_JPL.pdf (11 pages, 173537 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
