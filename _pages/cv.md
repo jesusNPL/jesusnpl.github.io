@@ -23,7 +23,7 @@ _We choose to go to the moon in this decade and do the other things, not because
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: October 2021
+Updated: June 2022
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
@@ -33,7 +33,8 @@ Updated: October 2021
 * __Ph.D. Ecology and Evolution__, Universidade Federal de Goiás, Brasil, 2017
 
 ## Appointments
-* 2020-Present: __Research Scientist__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
+* 2022-present: __UMN Presidential Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
+* 2020-2022: __Research Scientist__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
 * 2017-2020: __Grand Challenges in Biology Postdoctoral Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota (Sponsors: Dr. Jeannine Cavender-Bares and Dr. Daniel Larkin).
 * 2009-Present: __Research Associate [_Ad Honorem_]__. Museo de Historia Natural Noel Kempff Mercado, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia. 
 * 2012-2013: __Guest Lecturer of Vertebrate Zoology__.  Carrera de Biología, Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia.
@@ -41,6 +42,7 @@ Updated: October 2021
 * 2003-2006: __Intern__. Museo de Historia Natural Noel Kempff Mercado, Universidad Autónoma Gabriel René Moreno, Santa Cruz de la Sierra, Bolivia.
   
 ## Fellowships and Awards
+* 2022-2024: __University of Minnesota Presidential Fellowship__, University of Minnesota.
 * 2020-2021: __AAAS/Science membership award__, the American Association for the Advancement of Science Program for Excellence in Science. 
 * 2021: __Sigma Xi Membership__, Sigma Xi the Scientific Research Honor Society.
 * 2017-2020: __Grand Challenges in Biology Fellowship__, College of Biological Sciences, University of Minnesota.

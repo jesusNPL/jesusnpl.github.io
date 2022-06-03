@@ -38,7 +38,10 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ## Published
 
-### 2021 - 2022
+### 2021 - 2022 
+
+* Arango, A., __J.N. Pinto-Ledezma__, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://academic.oup.com/biolinnean/advance-articles). _Biological Journal of the Linnean Society, (accepted)_.
+
 * Rueda-Cediel, P., N. Galic, R. Brain, __J.N. Pinto-Ledezma__, A. Rico and V. Forbes. 2022. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). _Integrated Environmental Assessment and Management, 4615_.
 
 * Fontes, C., __J.N. Pinto-Ledezma__, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. 2022. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). _Functional Ecology, 36(2): 326-340_. 
