@@ -11,13 +11,12 @@ image:
 
 [Google Scholar profile](https://scholar.google.com/citations?user=iCRGRz0AAAAJ&hl=en)
 
-```{=html}
 <style type="text/css">
   body{
   font-size: 11pt;
-} 
+}
 </style>
-```
+
 *Models are tools to understand the real world and...they can sharpen our intuition about ecological mechanisms. Even the simplest model, which may match no living system, can be useful*. **--William Murdoch**
 
 *Understanding patterns in terms of the processes that produce them is the essence of science*. **--Simon A. Levin**
