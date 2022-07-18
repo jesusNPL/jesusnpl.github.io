@@ -16,6 +16,8 @@ share: true
 }
 </style>
 
+![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/neon_playground.jpg?raw=true)
+
 **NEON playground** is a set of tutorials created to help the scientific and non-scientific communities to get access and to analyze data provided by The National Science Foundation's (NSF) National Ecological Observatory Network (NEON). In short, [NEON](https://www.neonscience.org) is a continental-scale observation facility operated by [Battelle](https://www.battelle.org) and designed to collect long-term open access ecological data to better understand how U.S. ecosystems are changing.
 
 This initiative started as part of the NSF founded project [**DEB-2017843**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017843&HistoricalAwards=false) entitled **Integrating biodiversity observations with airborne and satellite data to predict shifts in assemblage diversity and composition under global change**. The overarching objective is to harness remote sensing information at local and continental scales to predict biodiversity in the conterminous United States. In other words, with this project we aim to develop a flexible framework for the integration of biodiversity measures derived from NEON sampling sites with remote sensing metrics as means to predict and monitor biodiversity at different spatial and temporal scales.
@@ -29,7 +31,7 @@ With this project we also aim to actively engage in training undergraduate and g
 
 ## NextGen species distribution models (NextGen SDMs)
 
-In this tutorial, we will construct correlative models using data at species level (occurrence data points) and environmental data derived from remote sensing--**AKA Next-Generation species distribution models** [Pinto-Ledezma & Cavender-Bares 2021](https://www.nature.com/articles/s41598-021-96047-7). To do so, we will download occurrence data for oak species distributed in the Americas from [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) and environmental (temperature and precipitation) data from [NASA](https://lpdaac.usgs.gov/products/mod11c3v006/) and [CHIRPS](https://www.chc.ucsb.edu/data/chirps) servers. Then we will use the Earth observation climatic variables to construct a new set of variables that we call Earth observation bioclimatic variables or simply **EO-Bioclim**. 
+In this tutorial, we will construct correlative models using data at species level (occurrence data points) and environmental data derived from remote sensing--AKA **Next-Generation species distribution models** [(Pinto-Ledezma & Cavender-Bares 2021)](https://www.nature.com/articles/s41598-021-96047-7). To do so, we will download occurrence data for oak species distributed in the Americas from [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) and environmental (temperature and precipitation) data from [NASA](https://lpdaac.usgs.gov/products/mod11c3v006/) and [CHIRPS](https://www.chc.ucsb.edu/data/chirps) servers. Then we will use the Earth observation climatic variables to construct a new set of variables that we call Earth observation bioclimatic variables or simply **EO-Bioclim**. 
 
 __To get access to the tutorial please click the next link:__ 
 <p style="text-decoration:underline;"><a href="/NEON_Intro_NextGenSDM.html">Intro to NextGen species distribution models</a></p>
