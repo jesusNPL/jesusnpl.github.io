@@ -27,7 +27,9 @@ The broader impacts of this **NSF project** include several components:
 
 With this project we also aim to actively engage in training undergraduate and graduate students in bioinformatics, building quantitative thinking and skills essential to macroecological research and assessment of biodiversity in the Anthropocene. Click in the links below to get access to each tutorial.
 
-## NextGen species distribution models
+## NextGen species distribution models (NextGen SDMs)
+
+In this tutorial, we will construct correlative models using data at species level (occurrence data points) and environmental data derived from remote sensing--**AKA Next-Generation species distribution models** [Pinto-Ledezma & Cavender-Bares 2021](https://www.nature.com/articles/s41598-021-96047-7). To do so, we will download occurrence data for oak species distributed in the Americas from [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org) and environmental (temperature and precipitation) data from [NASA](https://lpdaac.usgs.gov/products/mod11c3v006/) and [CHIRPS](https://www.chc.ucsb.edu/data/chirps) servers. Then we will use the Earth observation climatic variables to construct a new set of variables that we call Earth observation bioclimatic variables or simply **EO-Bioclim**. 
 
 __To get access to the tutorial please click the next link:__ 
 <p style="text-decoration:underline;"><a href="/NEON_Intro_NextGenSDM.html">Intro to NextGen species distribution models</a></p>
