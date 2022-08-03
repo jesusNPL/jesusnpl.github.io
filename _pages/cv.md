@@ -23,7 +23,7 @@ _We choose to go to the moon in this decade and do the other things, not because
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: June 2022
+Updated: Aug 2022
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
@@ -79,7 +79,14 @@ Updated: June 2022
 * __Association of Tropical Biology and Conservation__: Biotropica
 
 ### Journals in for-profit publishers  
-Journal of Plant Ecology, Annals of Botany, Journal of Zoological Systematics and Evolutionary, Nature Communications, Perspectives in Ecology and Evolution, Forest Ecology and Management, Biodiversity and Conservation.
+* __Nature__
+* __Nature Communications__
+* __Journal of Zoological Systematics and Evolutionary__
+* __Journal of Plant Ecology__
+* __Perspectives in Ecology and Evolution__
+* __Annals of Botany__
+* __Forest Ecology and Management__
+* __Biodiversity and Conservation__
 
 ### Others
 Kempffiana, Oecología Australis, PLOS One, Journal of Vegetation Science.
