@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.5)  8 AUG 2022 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  25 AUG 2022 10:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_JPL.tex
 (./CV_JPL.tex
-LaTeX2e <2022-06-01> patch level 4
-L3 programming layer <2022-07-01> (./resume.cls
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-05> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -173,7 +173,7 @@ File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {phv/*/*}{U/psy/*/*} {*/bx/n}{U/eur/b/n} {*/b/n}{U/eur/b/n} {*/*/n}{U/eur/m/n} {*/*/it}{OML/*/*/*}. on input line 69.
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box98
 ) (./CV_JPL.aux)
@@ -288,15 +288,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3917 strings out of 479976
- 66406 string characters out of 5886437
- 363154 words of memory out of 5000000
- 22082 multiletter control sequences out of 15000+600000
+ 3917 strings out of 479618
+ 66406 string characters out of 5876871
+ 365134 words of memory out of 5000000
+ 22440 multiletter control sequences out of 15000+600000
  477242 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,12n,76p,1697b,368s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1095.600pk> </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on CV_JPL.pdf (12 pages, 190240 bytes).
+Output written on CV_JPL.pdf (12 pages, 190296 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream

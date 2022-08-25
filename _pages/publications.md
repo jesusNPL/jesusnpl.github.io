@@ -31,8 +31,6 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 -   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 
--   Velasco, J.A. & **J.N. Pinto-Ledezma**. [Mapping diversification metrics in macroecological studies: prospects and challenges](https://doi.org/10.1101/261867).
-
 -   Simon, L., **J.N. Pinto-Ledezma**, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
 
 -   Souza, K., **J.N. Pinto-Ledezma**, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How to measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1).
@@ -40,6 +38,8 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 ## Published
 
 ### 2021 - 2022
+
+-   Velasco, J.A. & **J.N. Pinto-Ledezma**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
 
 -   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 071*.
 
