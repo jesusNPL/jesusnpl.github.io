@@ -39,7 +39,9 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ### 2021 - 2022
 
--   Velasco, J.A. & **J.N. Pinto-Ledezma**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
+-   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Power. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://onlinelibrary.wiley.com/journal/14610248). *Ecology Letters, accepted*.
+
+-   Velasco, J.A. and **J.N. Pinto-Ledezma**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
 
 -   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 071*.
 
