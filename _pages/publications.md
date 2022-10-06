@@ -24,6 +24,7 @@ image:
 ![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/publications2.jpg?raw=true)
 
 Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
+Equal contribution or co-first authorship = ¶
 
 ## Preprints
 
@@ -39,11 +40,11 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 ### 2021 - 2022
 
--   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Power. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://onlinelibrary.wiley.com/journal/14610248). *Ecology Letters, accepted*.
+-   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://onlinelibrary.wiley.com/journal/14610248). *Ecology Letters, accepted*.
 
--   Velasco, J.A. and **J.N. Pinto-Ledezma**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
+-   Velasco¶, J.A. and **J.N. Pinto-Ledezma¶**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
 
--   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 071*.
+-   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 137(1): 137-144*.
 
 -   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico and V. Forbes. 2022. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 4615*.
 
