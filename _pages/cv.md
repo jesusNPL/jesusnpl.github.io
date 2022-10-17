@@ -62,7 +62,8 @@ Updated: Aug 2022
 * I have served as a reviewer in areas of macroecology, macroevolution, zoology, taxonomy and systematics, ecology and evolution, community ecology, in:   
 
 ### Society journals and/or associated to scientific societies 
-* __National Academy of Sciences of the United States of America__: Proceedings of the National Academy of Sciences
+* __National Academy of Sciences of the United States of America__: Proceedings of the National Academy of Sciences 
+* __The Royal Society__: Philosophical Transactions B
 * __Ecological Society of America__: Ecology, Frontiers in Ecology and the Environment, Ecological Monographs 
 * __American Society of Naturalists__: The American Naturalist
 * __Society of Systematic Biologists__: Systematic Biology
@@ -80,13 +81,16 @@ Updated: Aug 2022
 
 ### Journals in for-profit publishers  
 * __Nature__
-* __Nature Communications__
+* __Nature Communications__ 
+* __npj Biodiversity__
 * __Journal of Zoological Systematics and Evolutionary__
 * __Journal of Plant Ecology__
 * __Perspectives in Ecology and Evolution__
 * __Annals of Botany__
 * __Forest Ecology and Management__
 * __Biodiversity and Conservation__
+* __Biological Conservation__ 
+* __Frontiers in Ecology and Evolution__
 
 ### Others
 Kempffiana, Oecología Australis, PLOS One, Journal of Vegetation Science.
