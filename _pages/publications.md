@@ -39,6 +39,12 @@ Equal contribution or co-first authorship = ¶
 
 ## Published
 
+### 2023 - 
+
+-   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie and P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
+
+-   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak and D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
+
 ### 2021 - 2022
 
 -   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://doi.org/10.1111/ele.14128). *Ecology Letters, ELE14128*.
