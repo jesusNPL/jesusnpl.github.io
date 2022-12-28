@@ -45,6 +45,8 @@ Equal contribution or co-first authorship = ¶
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak and D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
 
+-   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico and V. Forbes. 2023. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 19(10): 213-223*.
+
 ### 2021 - 2022
 
 -   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://doi.org/10.1111/ele.14128). *Ecology Letters, 25(12): 2637-2650*.
@@ -52,8 +54,6 @@ Equal contribution or co-first authorship = ¶
 -   Velasco¶, J.A. and **J.N. Pinto-Ledezma¶**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
 
 -   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 137(1): 137-144*.
-
--   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico and V. Forbes. 2022. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 4615*.
 
 -   Fontes, C., **J.N. Pinto-Ledezma**, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. 2022. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). *Functional Ecology, 36(2): 326-340*.
 

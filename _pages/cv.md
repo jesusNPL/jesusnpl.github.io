@@ -53,6 +53,12 @@ Updated: Aug 2022
 * 2007-2009: __SCB Membership Award__. Society for Conservation Biology - A global community of conservation professionals. Society for Conservation Biology, Washington, D.C., USA.
 * 2006-2008: __Master’s Fellowship__, Program in Wildlife Management (Programa de Maestría en Manejo de Vida Silvestre). US Wildlife Service, Universidad Nacional de Córdoba, Córdoba, Argentina.
 
+## Editing activities
+
+* Subject Matter Editor at [Ecological Monographs](https://esajournals.onlinelibrary.wiley.com/hub/journal/15577015/editorial-board/editorial-board) (Ecological Society of America).
+
+* Guest Associate Editor in Models in Ecology and Evolution at [Frontiers in Ecology and Evolution](https://www.frontiersin.org/research-topics/44487/models-in-conservation-and-restoration-ecology#overview). 
+
 ## Reviewing activities
 
 [Publons profile](https://publons.com/researcher/1588941/jesus-n-pinto-ledezma/peer-review/)
