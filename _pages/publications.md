@@ -33,7 +33,7 @@ Equal contribution or co-first authorship = ¶
 
 -   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
 
--   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak and D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
+-   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
 
 -   Souza, K., D. Fortunato, L. Jardim, L.C. Terribile, M. Lima-Ribeiro, C. Mariano, **J.N. Pinto-Ledezma**, L.M. Bini, R. Loyola, R. Dobrovolski, T.F.L.V.B. Rangel, I.F. Machado, T. Rocha, M.C. Batista, M.L. Lorini, M.M. Vale, C.A. Navas, N.M. Maciel, F. Villalobos, M.A. Olalla-Tarraga, J.F.M. Rodrigues, S. Gouveia & J.A.F. Diniz-Filho. 2023. [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://www.frontiersin.org/articles/10.3389/fevo.2023.1038018/abstract). *Frontiers in Ecology and Evolution, 1038018*.
 
