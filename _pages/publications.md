@@ -27,27 +27,19 @@ Supervised co-authors are indicated by: † = Undergraduate; †† = Graduate.
 
 Equal contribution or co-first authorship = ¶
 
-## Preprints
-
--   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v1.full).
-
--   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
-
--   Simon, L., **J.N. Pinto-Ledezma**, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
-
--   Souza, K., **J.N. Pinto-Ledezma**, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How to measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1).
-
 ## Published
 
-### 2023 - 
+### 2023  
 
 -   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie and P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak and D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
 
+-   Souza, K., D. Fortunato, L. Jardim, L.C. Terribile, M. Lima-Ribeiro, C. Mariano, **J.N. Pinto-Ledezma**, L.M. Bini, R. Loyola, R. Dobrovolski, T.F.L.V.B. Rangel, I.F. Machado, T. Rocha, M.C. Batista, M.L. Lorini, M.M. Vale, C.A. Navas, N.M. Maciel, F. Villalobos, M.A. Olalla-Tarraga, J.F.M. Rodrigues, S. Gouveia and J.A.F. Diniz-Filho. 2023. [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://www.frontiersin.org/articles/10.3389/fevo.2023.1038018/abstract). *Frontiers in Ecology and Evolution, 1038018*.
+
 -   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico and V. Forbes. 2023. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 19(10): 213-223*.
 
-### 2021 - 2022
+### 2022
 
 -   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://doi.org/10.1111/ele.14128). *Ecology Letters, 25(12): 2637-2650*.
 
@@ -59,11 +51,13 @@ Equal contribution or co-first authorship = ¶
 
 -   Chaplin-Kramer, R., K.A. Brauman, J. Cavender-Bares, S. Díaz, G.T. Duarte, B.J. Enquist, L.A. Garibaldi, J. Geldmann, B.S. Halpern, T.W. Hertel, C.K. Khoury, J.M. Krieger, S. Lavorel, T. Mueller, R.A. Neugarten, **J.N. Pinto-Ledezma**, S. Polasky, A. Purvis, V. Reyes-García, P.R. Roehrdanz, L.J. Shannon, M.R. Shaw, B.N. Strassburg, J.M. Tylianakis, P.H. Verburg, P. Visconti and N. Zafra-Calvo. 2022. [Conservation needs to integrate knowledge across scales](https://www.nature.com/articles/s41559-021-01605-x). *Nature Ecology and Evolution, 6: 118-119*.
 
+### 2021 
+
 -   **Pinto-Ledezma, J.N.** & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). *Scientific Reports, 11: 16448*.
 
 -   Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, **J.N. Pinto-Ledezma**, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. 2021. [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). *Research Ideas and Outcomes, 7: e63850*.
 
-### 2019 - 2020
+### 2020
 
 -   **Pinto-Ledezma, J.N.**, F. Villalobos, P.R. Reich, J.A. Catford, D.L. Larkin & J. Cavender-Bares. 2020. [Testing Darwin's naturalization conundrum based on taxonomic, phylogenetic and functional dimensions of vascular plants](https://doi.org/10.1002/ecm.1420). *Ecological Monographs, 90(4): e01420*.
 
@@ -75,15 +69,19 @@ Equal contribution or co-first authorship = ¶
 
 -   Villalobos, F., **J.N. Pinto-Ledezma** & J.A.F. Diniz-Filho. 2020. [Evolutionary macroecology and the geographical patterns of Neotropical diversification](https://doi.org/10.1007/978-3-030-31167-4_5). In Rull, V. & A.C. Carnaval (Eds.) Neotropical diversification: patterns and processes. *Springer Nature*.
 
+### 2019
+
 -   **Pinto-Ledezma, J.N.**, A.E. Jahn, V.R. Cueto, J.A.F. Diniz-Filho & F. Villalobos. 2019. [Corrigendum for Pinto-Ledezma et al. (2019)](https://doi.org/10.1086/700696). *The American Naturalist, 193(6): 897*.
 
 -   **Pinto-Ledezma, J.N.**, A.E. Jahn, V.R. Cueto, J.A.F. Diniz-Filho & F. Villalobos. 2019. [Drives of phylogenetic assemblage structure of the Furnariides, a widespread clade of lowland Neotropical birds](https://doi.org/10.1086/700696). *The American Naturalist, 193(2): E41-E56*. Data from this paper is available on DRYAD; DOI: 10.5061/dryad.h3390h5
 
 -   Contributing author in: Cavender-Bares, J. et al. Chapter 3 Status and trends of biodiversity and ecosystem functions underpinning nature's benefit to people. In IPBES (2019): [The IPBES regional assessment report on biodiversity and ecosystem services for the Americas](https://ipbes.net/sites/default/files/2018_americas_full_report_book_v4_pages_0.pdf). 207-362 Pp. Rice et al. (Eds.). Secretariat of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Bonn, Germany.
 
-### 2017 - 2018
+### 2018
 
 -   **Pinto-Ledezma, J.N.**, D. Larkin & J. Cavender-Bares. 2018. [Patterns of beta diversity of vascular plants and their correspondence with biome boundaries across North America](https://doi.org/10.3389/fevo.2018.00194). *Frontiers in Ecology and Evolution, 6: 194*.
+
+### 2017
 
 -   **Pinto-Ledezma, J.N.**, L. Simon, J.A.F. Diniz-Filho & F. Villalobos. 2017. [The geographic diversification of Furnariides: the role of forest versus open habitats in driving species richness gradients](https://doi.org/10.1111/jbi.12939). *Journal of Biogeography, 44(8): 1683-1693*.
 
@@ -95,7 +93,7 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna (Natural Histoy of the Cerro Mutún: V. The avifauna)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). *Kempffiana, 13(2):11-28*.
 
-### 2015 - 2016
+### 2016
 
 -   ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & **J.N. Pinto-Ledezma**. 2016. [Historia Natural del Cerro Mutún IV: la herpetofauna (Natural Histoy of the Cerro Mutún: IV. The herpetofauna)](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). *Kempffiana, 13(1): 116-128*.
 
@@ -103,13 +101,15 @@ Equal contribution or co-first authorship = ¶
 
 -   †Sosa, R., C. Schalk, L. Braga & **J.N. Pinto-Ledezma**. 2015. [*Rhinella amboroensis* (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). *Herpetological Review, 46(2): 214*.
 
+### 2015
+
 -   †Pinto. M.A. & **J.N. Pinto-Ledezma**. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia) (A preliminar list of the amphibians from the Benevento property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). *Kempffiana, 11(1): 23-27*.
 
 -   †Pinto, M.A., D. García, †K. Mano & **J.N. Pinto-Ledezma**. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia (A preliminar list of the amphibians and reptiles from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). *Kempffiana, 11(1): 70-75*.
 
 -   †Mano, K., †M.A. Pinto, †R. Sosa, D. Villarroel & **J.N. Pinto-Ledezma**. 2015. [Reptile fauna of the Mutún region (Santa Cruz department, Bolivia): species list and conservation status](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/4_Mano-Cuellar%20et%20al_2015.pdf). *Kempffiana, 11(1): 66-69*.
 
-### 2013 - 2014
+### 2014
 
 -   **Pinto-Ledezma, J.N.** & M.L. Rivero. 2014. [Temporal patterns of deforestation and fragmentation in Lowland Bolivia: Implications for climate change](https://doi.org/10.1007/s10584-013-0817-1). *Climatic Change, 127: 43--54*.
 
@@ -118,6 +118,8 @@ Equal contribution or co-first authorship = ¶
 -   **Pinto-Ledezma, J.N.**, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia (A Preliminar list of the birds from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). *Kempffiana, 10(2): 20-30*.
 
 -   †Sosa, R., L. Braga & **J.N. Pinto-Ledezma**. 2014. [The amphibian fauna of the Southwest Amboró National Park, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/4_Sosa%20et%20al.%2031-35.pdf). *Kempffiana, 10(2): 31-35*.
+
+### 2013
 
 -   Jahn, A.E., D. Levey, V. Cueto, **J.N. Pinto-Ledezma**, D. Tuero, J.W. Fox, & D. Masson. 2013. [Long-distance bird migration in South America as revealed by light-level geolocators](https://doi.org/10.1525/auk.2013.12077). *The AUK, 130(2): 223-229*.
 
@@ -142,6 +144,16 @@ Equal contribution or co-first authorship = ¶
 -   Villarroel, D., **J.N. Pinto-Ledezma**, T. Ruiz de Centurión & A. Parada. 2009. [Relaciones entre la cobertura arbórea y herbácea en tres fisonomías del Cerrado sensu lato (Cerro Mutún, Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_arttext&pid=S1605-25282009000200002). Ecología en Bolivia, 44(2): 83-98.
 
 -   **Pinto-Ledezma, J.N**. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. *Kempffiana, 1(2): 45-56*.
+
+## Preprints
+
+-   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v1.full).
+
+-   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
+
+-   Simon, L., **J.N. Pinto-Ledezma**, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
+
+-   Souza, K., **J.N. Pinto-Ledezma**, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How to measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1). 
 
 ## Book and chapters non peer reviewed
 

@@ -23,7 +23,7 @@ _We choose to go to the moon in this decade and do the other things, not because
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: Aug 2022
+Updated: Jan 2023
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
