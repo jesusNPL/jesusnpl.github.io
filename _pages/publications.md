@@ -31,31 +31,31 @@ Equal contribution or co-first authorship = ¶
 
 ### 2023  
 
--   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie and P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
+-   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak and D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
 
--   Souza, K., D. Fortunato, L. Jardim, L.C. Terribile, M. Lima-Ribeiro, C. Mariano, **J.N. Pinto-Ledezma**, L.M. Bini, R. Loyola, R. Dobrovolski, T.F.L.V.B. Rangel, I.F. Machado, T. Rocha, M.C. Batista, M.L. Lorini, M.M. Vale, C.A. Navas, N.M. Maciel, F. Villalobos, M.A. Olalla-Tarraga, J.F.M. Rodrigues, S. Gouveia and J.A.F. Diniz-Filho. 2023. [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://www.frontiersin.org/articles/10.3389/fevo.2023.1038018/abstract). *Frontiers in Ecology and Evolution, 1038018*.
+-   Souza, K., D. Fortunato, L. Jardim, L.C. Terribile, M. Lima-Ribeiro, C. Mariano, **J.N. Pinto-Ledezma**, L.M. Bini, R. Loyola, R. Dobrovolski, T.F.L.V.B. Rangel, I.F. Machado, T. Rocha, M.C. Batista, M.L. Lorini, M.M. Vale, C.A. Navas, N.M. Maciel, F. Villalobos, M.A. Olalla-Tarraga, J.F.M. Rodrigues, S. Gouveia & J.A.F. Diniz-Filho. 2023. [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://www.frontiersin.org/articles/10.3389/fevo.2023.1038018/abstract). *Frontiers in Ecology and Evolution, 1038018*.
 
--   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico and V. Forbes. 2023. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 19(10): 213-223*.
+-   Rueda-Cediel, P., N. Galic, R. Brain, **J.N. Pinto-Ledezma**, A. Rico & V. Forbes. 2023. [Using life-history trait variation to inform ecological risk assessments for threatened and endangered plant species](https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/ieam.4615). *Integrated Environmental Assessment and Management, 19(10): 213-223*.
 
 ### 2022
 
--   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira and J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://doi.org/10.1111/ele.14128). *Ecology Letters, 25(12): 2637-2650*.
+-   Vargas, G., N. Knert, W.M Hammond, Z.C. Berry, L.K. Werden, Ch.M. Smith-Martin, B.T. Wolfe, L. Toro, A. Mondragón-Botero, **J.N. Pinto-Ledezma**, N.B. Schwartz, M. Uriarte, L. Sack, K.L. Anderson-Texeira & J.S. Powers. 2022. [Leaf habit affects the distribution of drought sensitivity but no water transport efficiency in the tropics](https://doi.org/10.1111/ele.14128). *Ecology Letters, 25(12): 2637-2650*.
 
--   Velasco¶, J.A. and **J.N. Pinto-Ledezma¶**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
+-   Velasco¶, J.A. & **J.N. Pinto-Ledezma¶**. 2022. [Mapping species diversification metrics in macroecology: Prospects and challenges](https://www.frontiersin.org/articles/10.3389/fevo.2022.951271/abstract). *Frontiers in Ecology and Evolution, 951271*.
 
--   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall and F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 137(1): 137-144*.
+-   Arango, A., **J.N. Pinto-Ledezma**, O. Rojas-Soto, A.M. Lindsay, C.D. Mendenhall & F. Villalobos. 2022. [Hand-Wing Index as a surrogate for dispersal ability: the case of the Emberizoidea (Aves: Passeriformes) radiation](https://doi.org/10.1093/biolinnean/blac071). *Biological Journal of the Linnean Society, 137(1): 137-144*.
 
--   Fontes, C., **J.N. Pinto-Ledezma**, A.L. Jacobsen, R.B. Pratt and J. Cavender-Bares. 2022. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). *Functional Ecology, 36(2): 326-340*.
+-   Fontes, C., **J.N. Pinto-Ledezma**, A.L. Jacobsen, R.B. Pratt & J. Cavender-Bares. 2022. [Adaptive variation among oaks in wood anatomical properties is shaped by climate of origin and shows limited plasticity across environments](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.13964). *Functional Ecology, 36(2): 326-340*.
 
--   Chaplin-Kramer, R., K.A. Brauman, J. Cavender-Bares, S. Díaz, G.T. Duarte, B.J. Enquist, L.A. Garibaldi, J. Geldmann, B.S. Halpern, T.W. Hertel, C.K. Khoury, J.M. Krieger, S. Lavorel, T. Mueller, R.A. Neugarten, **J.N. Pinto-Ledezma**, S. Polasky, A. Purvis, V. Reyes-García, P.R. Roehrdanz, L.J. Shannon, M.R. Shaw, B.N. Strassburg, J.M. Tylianakis, P.H. Verburg, P. Visconti and N. Zafra-Calvo. 2022. [Conservation needs to integrate knowledge across scales](https://www.nature.com/articles/s41559-021-01605-x). *Nature Ecology and Evolution, 6: 118-119*.
+-   Chaplin-Kramer, R., K.A. Brauman, J. Cavender-Bares, S. Díaz, G.T. Duarte, B.J. Enquist, L.A. Garibaldi, J. Geldmann, B.S. Halpern, T.W. Hertel, C.K. Khoury, J.M. Krieger, S. Lavorel, T. Mueller, R.A. Neugarten, **J.N. Pinto-Ledezma**, S. Polasky, A. Purvis, V. Reyes-García, P.R. Roehrdanz, L.J. Shannon, M.R. Shaw, B.N. Strassburg, J.M. Tylianakis, P.H. Verburg, P. Visconti & N. Zafra-Calvo. 2022. [Conservation needs to integrate knowledge across scales](https://www.nature.com/articles/s41559-021-01605-x). *Nature Ecology and Evolution, 6: 118-119*.
 
 ### 2021 
 
 -   **Pinto-Ledezma, J.N.** & J. Cavender-Bares. 2021. [Predicting species distributions and community composition using satellite remote sensing predictors](https://www.nature.com/articles/s41598-021-96047-7). *Scientific Reports, 11: 16448*.
 
--   Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, **J.N. Pinto-Ledezma**, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis and Y. Yang. 2021. [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). *Research Ideas and Outcomes, 7: e63850*.
+-   Cavender-Bares, J., P.R. Reich, P.A. Townsend, A. Banerjee, E. Butler, A. Desai, A. Gevens, S. Hobbie, F. Isbell, E. Laliberté, J.E. Meireles, H. Menninger, R.P. Pavlick, **J.N. Pinto-Ledezma**, C. Potter, M.C. Schuman, N. Springer, A. Stefanski, P. Trivedi, A. Trowbridge, L. Williams, C.G. Willis & Y. Yang. 2021. [BII-Implementation: The causes and consequences of plant biodiversity across scales in a rapidly changing world](https://riojournal.com/article/63850/). *Research Ideas and Outcomes, 7: e63850*.
 
 ### 2020
 
