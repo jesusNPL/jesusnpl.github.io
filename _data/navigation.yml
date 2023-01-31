@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/   
+    url: /research/
   
   - title: "Publications"
     url: /publications/   
@@ -13,10 +13,10 @@ main:
   url: /people/   
 
   - title: "NEON Playground"
-    url: /NEON/   
+    url: /NEON/
   
   - title: "CV"
-    url: /cv/   
+    url: /cv/
 
   - title: "Contact"
-    url: /contact/   
+    url: /contact/
