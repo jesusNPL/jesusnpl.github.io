@@ -7,13 +7,16 @@ main:
     url: /publications/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
     
-  - title: "CV"
-    url: /cv/
+  - title: "People"
+  url: /people/   
 
   - title: "NEON Playground"
     url: /NEON/
+  
+  - title: "CV"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
