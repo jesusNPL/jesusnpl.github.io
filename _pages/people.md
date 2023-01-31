@@ -24,6 +24,5 @@ image:
 ## Undergraduate
 
 **Zoe Karwowski**
-
 [Zoe](karwo017@umn.edu) is a Senior undergraduate student in the Department of Ecology, Evolution & Behavior.
 
