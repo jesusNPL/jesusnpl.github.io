@@ -29,3 +29,14 @@ Ecology Building, 1987 Upper Buford Cir, Falcon Heights, MN 55108
 Zoe Karwowski
 
 [karwo017 AT umn DOT edu](mailto:karwo017@umn.edu) 
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
