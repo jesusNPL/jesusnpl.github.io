@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.9)  2 JAN 2023 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  7 FEB 2023 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_JPL.tex
 (./CV_JPL.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-05> (./resume.cls
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -20,9 +20,9 @@ File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
@@ -32,19 +32,19 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count193
 )) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen139
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen141
 \ar@mcellbox=\box51
-\extrarowheight=\dimen140
+\extrarowheight=\dimen142
 \NC@list=\toks17
-\extratabsurround=\skip49
-\backup@length=\skip50
+\extratabsurround=\skip50
+\backup@length=\skip51
 \ar@cellbox=\box52
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
@@ -58,26 +58,26 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count194
 \Gm@cntv=\count195
 \c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks18
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footers
-\f@nch@headwidth=\skip51
-\f@nch@O@elh=\skip52
-\f@nch@O@erh=\skip53
-\f@nch@O@olh=\skip54
-\f@nch@O@orh=\skip55
-\f@nch@O@elf=\skip56
-\f@nch@O@erf=\skip57
-\f@nch@O@olf=\skip58
-\f@nch@O@orf=\skip59
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -97,21 +97,21 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count197
 \mult@box=\box53
-\multicol@leftmargin=\dimen149
+\multicol@leftmargin=\dimen151
 \c@unbalance=\count198
 \c@collectmore=\count199
 \doublecol@number=\count266
 \multicoltolerance=\count267
 \multicolpretolerance=\count268
-\full@width=\dimen150
-\page@free=\dimen151
-\premulticols=\dimen152
-\postmulticols=\dimen153
-\multicolsep=\skip60
-\multicolbaselineskip=\skip61
+\full@width=\dimen152
+\page@free=\dimen153
+\premulticols=\dimen154
+\postmulticols=\dimen155
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
 \partial@page=\box54
 \last@line=\box55
-\maxbalancingoverflow=\dimen154
+\maxbalancingoverflow=\dimen156
 \mult@rightbox=\box56
 \mult@grightbox=\box57
 \mult@firstbox=\box58
@@ -155,9 +155,9 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@minrows=\count269
 \c@columnbadness=\count270
 \c@finalcolumnbadness=\count271
-\last@try=\dimen155
-\multicolovershoot=\dimen156
-\multicolundershoot=\dimen157
+\last@try=\dimen157
+\multicolovershoot=\dimen158
+\multicolundershoot=\dimen159
 \mult@nat@firstbox=\box96
 \colbreak@box=\box97
 \mc@col@check@num=\count272
@@ -173,7 +173,7 @@ File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {phv/*/*}{U/psy/*/*} {*/bx/n}{U/eur/b/n} {*/b/n}{U/eur/b/n} {*/*/n}{U/eur/m/n} {*/*/it}{OML/*/*/*}. on input line 69.
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box98
 ) (./CV_JPL.aux)
@@ -268,14 +268,15 @@ LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
 LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
 (Font)              using `U/eur/b/n' instead on input line 110.
 
-[2] [3] [4] [5] [6] [7] [8] [9
-
-] [10]
+[2] [3] [4] [5] [6] [7] [8] [9] [10]
 Overfull \hbox (1.8779pt too wide) in paragraph at lines 553--563
 [][] 
  []
 
-[11] [12] 
+
+Overfull \vbox (10.58087pt too high) has occurred while \output is active []
+
+ [11] [12] 
 AED: lastpage setting LastPage
 (./CV_JPL.aux)
 
@@ -283,15 +284,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3916 strings out of 479618
- 66387 string characters out of 5876871
- 364134 words of memory out of 5000000
- 22439 multiletter control sequences out of 15000+600000
- 477242 words of font info for 57 fonts, out of 8000000 for 9000
+ 3932 strings out of 478033
+ 66633 string characters out of 5838987
+ 1860793 words of memory out of 5000000
+ 24037 multiletter control sequences out of 15000+600000
+ 520270 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,76p,1697b,377s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,12n,76p,1697b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1095.600pk> </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on CV_JPL.pdf (12 pages, 190879 bytes).
+Output written on CV_JPL.pdf (12 pages, 190898 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
