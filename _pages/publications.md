@@ -31,6 +31,8 @@ Equal contribution or co-first authorship = ¶
 
 ### 2023  
 
+-   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
+
 -   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
@@ -146,8 +148,6 @@ Equal contribution or co-first authorship = ¶
 -   **Pinto-Ledezma, J.N**. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. *Kempffiana, 1(2): 45-56*.
 
 ## Preprints
-
--   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v1.full).
 
 -   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 
