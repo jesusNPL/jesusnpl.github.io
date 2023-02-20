@@ -16,6 +16,8 @@ share: no
 
 _If we knew what we were doing, it wouldn’t be called research_. __--Albert Einstein__
 
+_To do science is to search for repeated patterns, not simply to accumulate facts, and to do the science of geographical ecology is to search for patterns of plants and animal life that can be put on a map_. __--Robert H. MacArthur__
+
 _Nothing in biology makes sense except in light of evolution_. __--Theodosius Dobzhansky__
 
 ![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/research2.jpg?raw=true)

@@ -14,6 +14,10 @@ share: yes
 }
 </style>
 
+_We may have all come on different ships, but we're in the same boat now_. __--Martin Luther King, Jr__
+
+_To expect the world to receive a new truth, or even an old truth, without challenging it, is to look for one of those miracles which do not occur_. __--Alfred Russel Wallace__
+
 ![alt text](https://github.com/jesusNPL/jesusnpl.github.io/blob/master/contacto2.jpg?raw=true)
 
 ## Principal Investigator:  
