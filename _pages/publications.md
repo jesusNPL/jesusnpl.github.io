@@ -33,7 +33,7 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
 
--   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. Accepted. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/toc/14610248/0/0). *Ecology Letters*.
+-   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. 2023. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14182). *Ecology Letters, 26(4): 597-608*.
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
 
@@ -149,13 +149,15 @@ Equal contribution or co-first authorship = ¶
 
 ## Preprints
 
+-   Afshana, **J.N. Pinto-Ledezma** & Z.A. Reshi. [Phylogenetic relatedness of plant species co-occurring with an invasive alien plant species (Anthemis cotula L.) varies with elevation](https://www.biorxiv.org/content/10.1101/2023.03.10.532156v1.full).
+
 -   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 
 -   Simon, L., **J.N. Pinto-Ledezma**, R.R. Dunn & T.F.L.V.B. Rangel. [Urban warming inverse contribution on risk of dengue transmission in the southeastern North America](https://www.biorxiv.org/content/10.1101/2020.01.15.908020v1).
 
 -   Souza, K., **J.N. Pinto-Ledezma**, M. Telles, T. Soares, L. Chaves, C. Ruas, R. Dobrovolski, J.A.F. Diniz-Filho. [How to measure the influence of landscape population genetic structure: developing resistance surfaces using a pattern-oriented modeling approach](https://www.biorxiv.org/content/10.1101/2020.02.20.958637v1). 
 
-## Book and chapters non peer reviewed
+## Book and chapters non-peer-reviewed
 
 -   Mostacedo, B., M. Toledo, D. Villarroel, **J.N. Pinto-Ledezma**, G. Carreño-Rocabado, B. Flores & Y. Uslar. 2014. Memorias del IV Congreso Boliviano de Ecología. 4-6 de junio 2014. Universidad Autónoma Gabriel Rene Moreno, Santa Cruz, Bolivia.
 
