@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.9)  20 MAR 2023 15:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  4 APR 2023 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_JPL.tex
 (./CV_JPL.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17> (./resume.cls
+L3 programming layer <2023-03-30> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -79,8 +79,13 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
-Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
-) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: lastpage 2023/03/07 v2.0a lastpage: 2.09 or 2e? (HMM)
+ (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage2e.sty
+Package: lastpage2e 2023/03/07 v2.0a Decide which 2e lastpage version to use (HMM)
+ (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
+Package: lastpagemodern 2023-03-07 v2.0a Refers to last page's name (HMM; JPG)
+) 
+)) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
@@ -165,40 +170,40 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 Package: textgreek 2011/10/09 v0.7 Greek symbols in text
 Package textgreek Info: Loading the definitions for the Greek fontencoding. on input line 39.
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
-File: lgrenc.def 2022/06/14 2.1 LGR Greek font encoding definitions
+File: lgrenc.def 2023/02/28 2.2 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
 ... no UTF-8 mapping file for font encoding LGR
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
-File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+File: greek-fontenc.def 2023/03/08 2.2.1 Common Greek font encoding definitions
 ))
 Package textgreek Info: Loaded fontmap: {phv/*/*}{U/psy/*/*} {*/bx/n}{U/eur/b/n} {*/b/n}{U/eur/b/n} {*/*/n}{U/eur/m/n} {*/*/it}{OML/*/*/*}. on input line 69.
 ) (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count273
 \l__pdf_internal_box=\box98
 ) (./CV_JPL.aux)
 \openout1 = `CV_JPL.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 35.
-LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 36.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 36.
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    ... okay on input line 36.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -234,18 +239,15 @@ LaTeX Font Info:    ... okay on input line 35.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package lastpage Info: Please have a look at the pageslts package at
-(lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 35.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 36.
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
  (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
+Overfull \hbox (30.0pt too wide) in paragraph at lines 36--36
 [] 
  []
 
@@ -254,42 +256,52 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 35--35
 {/Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 110.
+(Font)              using `OT1/cmr/bx/n' instead on input line 111.
 
-LaTeX Font Info:    Trying to load font information for U+eur on input line 110.
+LaTeX Font Info:    Trying to load font information for U+eur on input line 111.
 (/Users/jesusnpl/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/ueur.fd
 File: ueur.fd 2013/01/14 v3.01 Euler Roman
 )
 
 LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
-(Font)              using `U/eur/b/n' instead on input line 110.
+(Font)              using `U/eur/b/n' instead on input line 111.
 
 
 LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
-(Font)              using `U/eur/b/n' instead on input line 110.
+(Font)              using `U/eur/b/n' instead on input line 111.
 
-[2] [3] [4] [5] [6] [7] [8] [9]
-Overfull \hbox (1.8779pt too wide) in paragraph at lines 558--568
+[2] [3] [4] [5] [6] [7]
+Overfull \hbox (3.09056pt too wide) in paragraph at lines 418--419
+[]\OT1/cmr/bx/n/10.95 Felipe A. Toro Car-dona\OT1/cmr/m/n/10.95 , Febru-ary 2023 - Present. Ex-ter-nal com-mit-tee mem-ber, PhD The-sis/Project:
+ []
+
+[8] [9
+
+] [10]
+Overfull \hbox (1.8779pt too wide) in paragraph at lines 566--576
 [][] 
  []
 
-[10] [11] [12] 
-AED: lastpage setting LastPage
+
+Overfull \vbox (10.58087pt too high) has occurred while \output is active []
+
+ [11] [12] 
+enddocument/afterlastpage: lastpage setting LastPage.
 (./CV_JPL.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3932 strings out of 478033
- 66633 string characters out of 5838987
- 1861793 words of memory out of 5000000
- 24037 multiletter control sequences out of 15000+600000
+ 3974 strings out of 477957
+ 68228 string characters out of 5837169
+ 1861666 words of memory out of 5000000
+ 24153 multiletter control sequences out of 15000+600000
  520270 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,12n,76p,1697b,375s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,76p,1697b,386s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1095.600pk> </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on CV_JPL.pdf (12 pages, 191109 bytes).
+Output written on CV_JPL.pdf (12 pages, 191301 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
