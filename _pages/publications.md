@@ -33,9 +33,9 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
 
--   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. 2023. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14182). *Ecology Letters, 26(4): 597-608*.
+-   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. 2023. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://doi.org/10.1093/jmammal/gyad042). *Journal of Mammalogy, gyad042*.
 
--   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. Accepted. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://academic.oup.com/jmammal/advance-articles). *Journal of Mammalogy*.
+-   Pellegrini, A., L. Anderegg, **J.N. Pinto-Ledezma**, J. Cavender-Bares, S.E. Hobbie & P.R. Reich. 2023. [Consistent physiological, ecological, and evolutionary effects of fire regime on conservative leaf economics strategies in plant communities](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14182). *Ecology Letters, 26(4): 597-608*.
 
 -   Souza, K., D. Fortunato, L. Jardim, L.C. Terribile, M. Lima-Ribeiro, C. Mariano, **J.N. Pinto-Ledezma**, L.M. Bini, R. Loyola, R. Dobrovolski, T.F.L.V.B. Rangel, I.F. Machado, T. Rocha, M.C. Batista, M.L. Lorini, M.M. Vale, C.A. Navas, N.M. Maciel, F. Villalobos, M.A. Olalla-Tarraga, J.F.M. Rodrigues, S. Gouveia & J.A.F. Diniz-Filho. 2023. [Evolutionary rescue and geographic range shifts under climate change for global amphibians](https://www.frontiersin.org/articles/10.3389/fevo.2023.1038018/abstract). *Frontiers in Ecology and Evolution, 1038018*.
 
