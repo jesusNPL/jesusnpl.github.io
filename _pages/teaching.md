@@ -22,11 +22,16 @@ _Illuminating our understanding of nature, that's what it's about_. __--Peter A.
 ## Core teaching
 __University of Minnesota, Saint Paul, MN, USA__
 
-* __Biodiversity Science (EEB 3534, 5534)__. Spring 2023. Department of Ecology, Evolution & Behavior, College of Biological Sciences. Access to course description and materials [here](https://github.com/jesusNPL/BiodiversityScience). __R tutorials:__ 1) [R-Intro](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_0/lab_0_R-Intro.html). 2) [Introduction to Phylogenies and the Comparative Method](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_1/lab_1_Intro_PCM.html). 3) [Large scale biodiversity patterns](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_2/lab_2_Large_scale.html). 4) [Intro to Infectious Diseases](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_3/lab_3_Infectious_diseases.html). 5) [Measuring phylogenetic diversity within communities](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_4/lab_4_metrics_biodiversity.html). 6) [Ecological niche models and species distributions](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_5/lab_5_ENM-SDM.html). 7) [Using hyperspectral remote sensing data to predict biodiversity](https://htmlpreview.github.io/?https://github.com/jesusNPL/BiodiversityScience/blob/master/Spring2023/Lab_6/lab_6_RS_Spectra.html).
+* __Biodiversity Science (EEB 3534, 5534)__. Spring 2023. Department of Ecology, Evolution & Behavior, College of Biological Sciences. Access to course description and materials [here](https://github.com/jesusNPL/BiodiversityScience). 
 
 __To get access to the tutorials please click the following links:__ 
-<p style="text-decoration:underline;"><a href="/files/lab_0_R-Intro.html">R-Intro</a></p>
-
+<p style="text-decoration:underline;"><a href="/files/lab_0_R-Intro.html">1) R-Intro</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_1_Intro_PCM.html">2) Introduction to Phylogenies and the Comparative Method</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_2_Large_scale.html">3) Large scale biodiversity patterns</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_3_Infectious_diseases.html">4) Intro to Infectious Diseases</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_4_metrics_biodiversity.html">5) Measuring phylogenetic diversity within communities</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_5_ENM-SDM.html">6) Ecological niche models and species distributions</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_6_RS_Spectra.html">7) Using hyperspectral remote sensing data to predict biodiversity</a></p>
 
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2021. College of Biological Sciences. Access to course description and labs material [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2021).
 
