@@ -24,14 +24,14 @@ __University of Minnesota, Saint Paul, MN, USA__
 
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2023. Department of Ecology, Evolution & Behavior, College of Biological Sciences. Access to course description and materials [here](https://github.com/jesusNPL/BiodiversityScience). 
 
-__To get access to the tutorials please click the following links:__ 
+__To get access to the lab tutorials please click the following links:__ 
 <p style="text-decoration:underline;"><a href="/files/lab_0_R-Intro.html">1) R-Intro</a></p>
 <p style="text-decoration:underline;"><a href="/files/lab_1_Intro_PCM.html">2) Introduction to Phylogenies and the Comparative Method</a></p>
-<p style="text-decoration:underline;"><a href="/files/lab_2_Large_scale.html">3) Large scale biodiversity patterns</a></p>
-<p style="text-decoration:underline;"><a href="/files/lab_3_Infectious_diseases.html">4) Intro to Infectious Diseases</a></p>
-<p style="text-decoration:underline;"><a href="/files/lab_4_metrics_biodiversity.html">5) Measuring phylogenetic diversity within communities</a></p>
-<p style="text-decoration:underline;"><a href="/files/lab_5_ENM-SDM.html">6) Ecological niche models and species distributions</a></p>
-<p style="text-decoration:underline;"><a href="/files/lab_6_RS_Spectra.html">7) Using hyperspectral remote sensing data to predict biodiversity</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_2_Large_scale.html">3) Large Scale Biodiversity Patterns</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_3_Infectious_diseases.html">4) Introduction to Infectious Diseases</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_4_metrics_biodiversity.html">5) Measuring Phylogenetic Diversity within Communities</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_5_ENM-SDM.html">6) Ecological Niche Models and Species Distributions</a></p>
+<p style="text-decoration:underline;"><a href="/files/lab_6_RS_Spectra.html">7) Using Hyperspectral Remote Sensing Data to Predict Biodiversity</a></p>
 
 * __Biodiversity Science (EEB 3534, 5534)__. Spring 2021. College of Biological Sciences. Access to course description and labs material [here](https://github.com/jesusNPL/BiodiversityScience/tree/master/Spring2021).
 
