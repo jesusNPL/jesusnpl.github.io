@@ -148,8 +148,9 @@ Equal contribution or co-first authorship = ¶
 -   **Pinto-Ledezma, J.N**. 2006. Evolución del paisaje y estado de conservación de la reserva forestal el Choré. *Kempffiana, 1(2): 45-56*.
 
 ## Preprints
+-   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. [Mapping oak wilt disease using phenological observations from space](https://doi.org/10.1101/2023.05.25.542318).
 
--   Afshana, **J.N. Pinto-Ledezma** & Z.A. Reshi. [Phylogenetic relatedness of plant species co-occurring with an invasive alien plant species (Anthemis cotula L.) varies with elevation](https://www.biorxiv.org/content/10.1101/2023.03.10.532156v1.full).
+-   Bala, A., **J.N. Pinto-Ledezma** & Z.A. Reshi. [Phylogenetic relatedness of plant species co-occurring with an invasive alien plant species (Anthemis cotula L.) varies with elevation](https://www.biorxiv.org/content/10.1101/2023.03.10.532156v2).
 
 -   Velasco, J.A., G. Campillo-García, **J.N. Pinto-Ledezma** & O. Villela-Flores. [Spatiotemporal dimensions of a reproductive life history trait in a spiny lizard radiation (Squamata: Phrynosomatidae)](https://doi.org/10.1101/2020.06.17.157891).
 

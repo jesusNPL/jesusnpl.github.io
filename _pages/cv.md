@@ -23,7 +23,7 @@ _We choose to go to the moon in this decade and do the other things, not because
 
 [Detailed CV](https://github.com/jesusNPL/jesusnpl.github.io/raw/master/CV/CV_JPL.pdf)
 
-Updated: Jan 2023
+Updated: June 2023
 
 [ORCID profile](https://orcid.org/0000-0001-6668-9670)
 
@@ -57,6 +57,8 @@ Updated: Jan 2023
 
 * Subject Matter Editor at [Ecological Monographs](https://esajournals.onlinelibrary.wiley.com/hub/journal/15577015/editorial-board/editorial-board) (Ecological Society of America).
 
+* Subject Matter Editor at **Ecology** (Ecological Society of America).
+
 * Guest Associate Editor in Models in Ecology and Evolution at [Frontiers in Ecology and Evolution](https://www.frontiersin.org/research-topics/44487/models-in-conservation-and-restoration-ecology#overview). 
 
 ## Reviewing activities
@@ -84,6 +86,7 @@ Updated: Jan 2023
 * __New Phytologist Foundation__: New Phytologist 
 * __Zoological Society of London__: Remote Sensing in Ecology and Conservation
 * __Association of Tropical Biology and Conservation__: Biotropica
+* __International Association for Vegetation Science__: Journal of Vegetation Science
 
 ### Journals in for-profit publishers  
 * __Nature__
@@ -99,7 +102,7 @@ Updated: Jan 2023
 * __Frontiers in Ecology and Evolution__
 
 ### Others
-Kempffiana, Oecología Australis, PLOS One, Journal of Vegetation Science.
+Kempffiana, Oecología Australis, PLOS One, PeerJ.
   
 ## Professional affiliations
 * 2020-Present: American Association for the Advancement of Science
