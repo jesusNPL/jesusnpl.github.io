@@ -33,7 +33,7 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
 
--   Moulatlet, G.M., B. Kusumoto, **J.N. Pinto-Ledezma**, T. Shiono, Y. Kubota & F. Villalobos. Accepted. [Global patterns of phylogenetic beta diversity components in angiosperms](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Journal of Vegetation Science, VS-06338*. 
+-   Moulatlet, G.M., B. Kusumoto, **J.N. Pinto-Ledezma**, T. Shiono, Y. Kubota & F. Villalobos. Accepted. [Global patterns of phylogenetic beta diversity components in angiosperms](https://onlinelibrary.wiley.com/journal/16541103). *Journal of Vegetation Science, jvs06338*. 
 
 -   Meltesen, K.M., E.T. Whiting, **J.N. Pinto-Ledezma**, T.S. Cicak & D.L. Fox. 2023. [Deconstructing the latitudinal diversity gradient of North American mammals by nominal order](https://doi.org/10.1093/jmammal/gyad042). *Journal of Mammalogy, gyad042*.
 
