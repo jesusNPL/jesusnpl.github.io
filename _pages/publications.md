@@ -33,7 +33,7 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
 
--   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. [Mapping oak wilt disease using phenological observations from space](https://www.sciencedirect.com/journal/remote-sensing-of-environment). *Remote Sensing of Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.25.542318v1.full).
+-   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. [Mapping oak wilt disease from space using land surface phenology](https://www.sciencedirect.com/journal/remote-sensing-of-environment). *Remote Sensing of Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.25.542318v1.full).
 
 -   Moulatlet, G.M., B. Kusumoto, **J.N. Pinto-Ledezma**, T. Shiono, Y. Kubota & F. Villalobos. 2023. [Global patterns of phylogenetic beta diversity components in angiosperms](https://onlinelibrary.wiley.com/doi/10.1111/jvs.13203). *Journal of Vegetation Science, 34(4): e13203*. 
 
