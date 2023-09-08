@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  31 AUG 2023 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.31)  8 SEP 2023 10:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -270,13 +270,13 @@ LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
 LaTeX Font Warning: Font shape `U/eur/bx/n' undefined
 (Font)              using `U/eur/b/n' instead on input line 111.
 
-[2] [3] [4] [5] [6] [7]
-Overfull \hbox (3.09056pt too wide) in paragraph at lines 435--436
+[2] [3] [4] [5] [6] [7] [8]
+Overfull \hbox (3.09056pt too wide) in paragraph at lines 443--444
 []\OT1/cmr/bx/n/10.95 Felipe A. Toro Car-dona\OT1/cmr/m/n/10.95 , Febru-ary 2023 - Present. Ex-ter-nal com-mit-tee mem-ber, PhD The-sis/Project:
  []
 
-[8] [9] [10] [11] [12]
-Overfull \hbox (1.8779pt too wide) in paragraph at lines 675--685
+[9] [10] [11] [12]
+Overfull \hbox (1.8779pt too wide) in paragraph at lines 683--693
 [][] 
  []
 
@@ -294,9 +294,9 @@ Here is how much of TeX's memory you used:
  24153 multiletter control sequences out of 15000+600000
  520270 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,12n,76p,695b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,76p,695b,381s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcbx1095.600pk> </Users/jesusnpl/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb></Users/jesusnpl/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb>
-Output written on CV_JPL.pdf (14 pages, 194759 bytes).
+Output written on CV_JPL.pdf (14 pages, 195001 bytes).
 PDF statistics:
  116 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
