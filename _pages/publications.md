@@ -99,7 +99,7 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.**, M.A. Montenegro, & D. Villarroel. 2017. [Historial Natural del Cerro Mutún: V. la avifauna (Natural Histoy of the Cerro Mutún: V. The avifauna)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(2)/1_Pinto-Ledezmaetal-2017.pdf). *Kempffiana, 13(2):11-28*.
 
-### 2016
+### Earlier work
 
 -   ††Pinto, M.A., †K. Mano-Cuellar, D. Villarroel & **J.N. Pinto-Ledezma**. 2016. [Historia Natural del Cerro Mutún IV: la herpetofauna (Natural Histoy of the Cerro Mutún: IV. The herpetofauna)](http://www.museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana13(1)/3_Pinto-Viveros%20et%20al.%202017_106-128.pdf). *Kempffiana, 13(1): 116-128*.
 
@@ -107,25 +107,19 @@ Equal contribution or co-first authorship = ¶
 
 -   †Sosa, R., C. Schalk, L. Braga & **J.N. Pinto-Ledezma**. 2015. [*Rhinella amboroensis* (Cochabamba toad)](https://www.dropbox.com/s/r8ixyf8eigkr336/HR%20March%202015%20ebook.pdf?dl=1). *Herpetological Review, 46(2): 214*.
 
-### 2015
-
 -   †Pinto. M.A. & **J.N. Pinto-Ledezma**. 2015. [Listado preliminar de anfibios de la propiedad Benevento (Santa Cruz, Bolivia) (A preliminar list of the amphibians from the Benevento property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana11(2)/4_Pinto-Viveros&Pinto-Ledezma.pdf). *Kempffiana, 11(1): 23-27*.
 
 -   †Pinto, M.A., D. García, †K. Mano & **J.N. Pinto-Ledezma**. 2015. [Listado de anfibios y reptiles de la propiedad Juan Deriba, Santa Cruz, Bolivia (A preliminar list of the amphibians and reptiles from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/5_Pinto-Viveros%20et%20al_2015.pdf). *Kempffiana, 11(1): 70-75*.
 
 -   †Mano, K., †M.A. Pinto, †R. Sosa, D. Villarroel & **J.N. Pinto-Ledezma**. 2015. [Reptile fauna of the Mutún region (Santa Cruz department, Bolivia): species list and conservation status](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2011(1)/4_Mano-Cuellar%20et%20al_2015.pdf). *Kempffiana, 11(1): 66-69*.
 
-### 2014
-
 -   **Pinto-Ledezma, J.N.** & M.L. Rivero. 2014. [Temporal patterns of deforestation and fragmentation in Lowland Bolivia: Implications for climate change](https://doi.org/10.1007/s10584-013-0817-1). *Climatic Change, 127: 43--54*.
 
--   **Pinto-Ledezma, J.N.**, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. [A spatial explicit habitat model for the Hyacinth Macaw (*Anodorhynchus hyacintinus*) in the Bolivian Pantanal (Santa Cruz, Bolivia)](http://www.scielo.org.bo/scielo.php?script=sci_abstract&pid=S1605-25282014000200002&lng=en&nrm=iso&tlng=en). *Ecología en Bolivia, 49(2): 1605-2528*.
+-   **Pinto-Ledezma, J.N.**, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. A spatial explicit habitat model for the Hyacinth Macaw (*Anodorhynchus hyacintinus*) in the Bolivian Pantanal (Santa Cruz, Bolivia). *Ecología en Bolivia, 49(2): 1605-2528*.
 
 -   **Pinto-Ledezma, J.N.**, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia (A Preliminar list of the birds from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). *Kempffiana, 10(2): 20-30*.
 
 -   †Sosa, R., L. Braga & **J.N. Pinto-Ledezma**. 2014. [The amphibian fauna of the Southwest Amboró National Park, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/4_Sosa%20et%20al.%2031-35.pdf). *Kempffiana, 10(2): 31-35*.
-
-### 2013
 
 -   Jahn, A.E., D. Levey, V. Cueto, **J.N. Pinto-Ledezma**, D. Tuero, J.W. Fox, & D. Masson. 2013. [Long-distance bird migration in South America as revealed by light-level geolocators](https://doi.org/10.1525/auk.2013.12077). *The AUK, 130(2): 223-229*.
 
@@ -138,8 +132,6 @@ Equal contribution or co-first authorship = ¶
 -   †Sosa, R., L. Braga, Ch. M. Schalk & **J.N. Pinto-Ledezma**. *Micrurus serranus* (NCN) diet. *Herpetological Review, 44(1): 155*.
 
 -   †Sosa, R., L. Braga, Ch. M. Schalk & **J.N. Pinto-Ledezma**. 2013. *Phylodryas psammohidea* (Gunther's green racer) diet. *Herpetological Bulletin, 124: 24*.
-
-### Earlier work
 
 -   **Pinto-Ledezma, J.N.**, R. Sosa, M. Paredes, I. García, D. Villarroel, & S. Muyucundo. 2011. [The Hyacinth macaw (*Anodorhynchus hyacinthinus*): population status and its conservation in Bolivian Pantanal](https://www.researchgate.net/publication/237052307_THE_HYACINTH_MACAW_ANODORHYNCHUS_HYACINTHINUS_POBLATIONAL_STATUS_AND_ITS_CONSERVATION_IN_BOLIVIAN_PANTANAL). *Kempffiana, 7(2): 15-37*.
 
