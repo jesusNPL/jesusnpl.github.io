@@ -115,8 +115,6 @@ Equal contribution or co-first authorship = ¶
 
 -   **Pinto-Ledezma, J.N.** & M.L. Rivero. 2014. [Temporal patterns of deforestation and fragmentation in Lowland Bolivia: Implications for climate change](https://doi.org/10.1007/s10584-013-0817-1). *Climatic Change, 127: 43--54*.
 
--   **Pinto-Ledezma, J.N.**, V.X. Sandoval, V.N. Pérez, T.J. Caballero, †K. Mano, †M.A. Pinto Viveros & †R. Sosa. 2014. A spatial explicit habitat model for the Hyacinth Macaw (*Anodorhynchus hyacintinus*) in the Bolivian Pantanal (Santa Cruz, Bolivia). *Ecología en Bolivia, 49(2): 1605-2528*.
-
 -   **Pinto-Ledezma, J.N.**, T.J. Caballero, B. Flores, V.N. Perez, †K. Mano & †M.A. Pinto. 2014. [Lista preliminar de las aves de la propiedad Juan Deriba, Santa Cruz, Bolivia (A Preliminar list of the birds from the Juan Deriva property)](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/3_Pinto-Ledezma%20et%20al.%2020-30.pdf). *Kempffiana, 10(2): 20-30*.
 
 -   †Sosa, R., L. Braga & **J.N. Pinto-Ledezma**. 2014. [The amphibian fauna of the Southwest Amboró National Park, Santa Cruz, Bolivia](http://museonoelkempff.org/sitio/Informacion/KEMPFFIANA/kempffiana%2010(2)/4_Sosa%20et%20al.%2031-35.pdf). *Kempffiana, 10(2): 31-35*.
