@@ -31,9 +31,9 @@ Equal contribution or co-first authorship = ¶
 
 ### 2023  
 
--   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. Accepted. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/journal/15409309). *Frontiers in Ecology and the Environment* [Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491174v2). 
+-   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. 2023. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2696). *Frontiers in Ecology and the Environment, 2696*. 
 
--   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. 2023. [Mapping oak wilt disease from space using land surface phenology](https://doi.org/10.1016/j.rse.2023.113794). *Remote Sensing of Environment, 298: 113794* [Preprint](https://www.biorxiv.org/content/10.1101/2023.05.25.542318v1.full).
+-   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. 2023. [Mapping oak wilt disease from space using land surface phenology](https://doi.org/10.1016/j.rse.2023.113794). *Remote Sensing of Environment, 298: 113794*.
 
 -   Moulatlet, G.M., B. Kusumoto, **J.N. Pinto-Ledezma**, T. Shiono, Y. Kubota & F. Villalobos. 2023. [Global patterns of phylogenetic beta diversity components in angiosperms](https://onlinelibrary.wiley.com/doi/10.1111/jvs.13203). *Journal of Vegetation Science, 34(4): e13203*. 
 
