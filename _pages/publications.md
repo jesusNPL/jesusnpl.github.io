@@ -29,9 +29,11 @@ Equal contribution or co-first authorship = ¶
 
 ## Published
 
-### 2023  
+### 2024 
 
--   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. 2023. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2696). *Frontiers in Ecology and the Environment, 2696*. 
+-   **Pinto-Ledezma, J.N.**, S. Díaz, B. Halpern, C. Khoury & J. Cavender-Bares. 2024. [No branch left behind: tracking terrestrial biodiversity from a phylogenetic completeness perspective](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2696). *Frontiers in Ecology and the Environment, 22(2): e2696*. 
+
+### 2023  
 
 -   Guzmán, J.A., **J.N. Pinto-Ledezma**, D. Frantz, P.A. Townsend, J. Juzwik & J. Cavender-Bares. 2023. [Mapping oak wilt disease from space using land surface phenology](https://doi.org/10.1016/j.rse.2023.113794). *Remote Sensing of Environment, 298: 113794*.
 

@@ -33,7 +33,7 @@ Updated: June 2023
 * __Ph.D. Ecology and Evolution__, Universidade Federal de Goiás, Brasil, 2017
 
 ## Appointments
-* 2022-present: __UMN Presidential Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
+* 2022-2024: __UMN Presidential Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
 * 2020-2022: __Research Scientist__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
 * 2017-2020: __Grand Challenges in Biology Postdoctoral Fellow__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota (Sponsors: Dr. Jeannine Cavender-Bares and Dr. Daniel Larkin).
 * 2009-Present: __Research Associate [_Ad Honorem_]__. Museo de Historia Natural Noel Kempff Mercado, Universidad Autónoma Gabriel René Moreno, Santa Cruz, Bolivia. 
