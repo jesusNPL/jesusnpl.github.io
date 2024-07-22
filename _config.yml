@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  bluesky          : "jesusNPL.bsky.social" # Replace this with you Bluesky username  vine             :
+  bluesky          : "jesusNPL" # Replace this with you Bluesky username  vine             :
   weibo            :
   xing             :
   youtube          :
@@ -270,8 +270,8 @@ plugins:
   - jemoji
   - jekyll-include-cache 
   - jekyll-remote-theme
-remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+      remote_theme             : "mmistakes/minimal-mistakes"
+      minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # mimic GitHub Pages with --safe
 whitelist:
