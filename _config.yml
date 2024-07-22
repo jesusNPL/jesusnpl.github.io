@@ -20,6 +20,7 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
+colorscheme              : "dark" # "light" (default), "dark"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Jesús N. Pinto-Ledezma"
-  avatar           : "Jesus_Pinto-Ledezma.jpg"
+  avatar           : "Jesus_Pinto-Ledezma.jpg" #"profile.png"
   bio              : "Assistant Professor, University of Minnesota"
   location         : "United States"
   employer         :
